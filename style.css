@@ -1,0 +1,18 @@
+*{
+    box-sizing: border-box;
+
+}
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 15px 30px;
+   font-size: 17px; 
+   padding: 8px;
+   background: #6666;
+}
+
+.container{
+    background-color: #f2f2f2;
+    padding: 5px 20px 15px 20px;
+    border: 1px solid lightgray;
+    border-radius: 4px;
+}
